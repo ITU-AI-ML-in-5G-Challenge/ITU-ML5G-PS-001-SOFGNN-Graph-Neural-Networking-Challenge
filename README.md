@@ -30,9 +30,14 @@ Our solution is made of the combination of two independent models. For the train
 • To train model 2: execute the [main_2.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/main_2.py)  script with ```python main_2.py```. This will train model 2 and save the model after each epoch in a folder named trained model2.
 
 3 - Select the Best model
+
 • For model 1: run the [find top models 1.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/find_top_models_1.py) script with ```python find_top_models_1.py```.
 
 • For model 2: run the [find top models 2.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/find_top_models_2.py) script with ```python find_top_models_2.py```.
+
+4 - Evaluate the model
+
+To evaluate the ensemble model, run the [evaluate.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/evaluate.py) script with python ```evaluate.py```.
 
 # Credits
 This project is the result of collaboration between:
