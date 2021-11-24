@@ -39,7 +39,7 @@ Download the [Traning, Validation and test Datasets](https://bnn.upc.edu/challen
 
 ### 4 - Evaluate the model
 
-To evaluate the ensemble model, run the [evaluate.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/evaluate.py) script with python ```evaluate.py```.
+To evaluate the ensemble model, run the [evaluate.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/evaluate.py) script with  ```python evaluate.py```.
 
 # Credits
 This project is the result of the collaboration between:
