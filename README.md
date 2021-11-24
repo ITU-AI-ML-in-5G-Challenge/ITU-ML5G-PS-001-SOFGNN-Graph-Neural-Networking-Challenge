@@ -21,7 +21,7 @@ Our solution is made of the combination of two independent models. For the train
 <img id="fig1" src="./assets/SOFGNN_architecture.PNG" width="100%" height="100%" />
 
 ##  Training and Evaluation
-1 - Download the [Traning, Validation and test Datasets](https://bnn.upc.edu/challenge/gnnet2021/dataset/)  made available by the [Barcelona Neural Networking Center], then save them in a folder named Dataset following the specifications contained in the [code/.config file](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/config.ini). Updete the [[DIRECTORIES]] paths (https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/config.ini#L1) to match with your envionment.
+1 - Download the [Traning, Validation and test Datasets](https://bnn.upc.edu/challenge/gnnet2021/dataset/)  made available by the [Barcelona Neural Networking Center](https://bnn.upc.edu/), then save them in a folder named Dataset following the specifications contained in the [code/.config file](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/config.ini). Updete the [[DIRECTORIES]](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/config.ini#L1)  paths  to match with your envionment.
 
 2 - Train model 1 and model 2
 
