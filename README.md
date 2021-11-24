@@ -1,5 +1,20 @@
 # ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge
 This repository contains the code and description of our solution as well as the report and the final presentation slide.
+
+##Requirements
+Our implementation is based on the tensorflow version of [RouteNet model](https://github.com/BNN-UPC/GNNetworkingChallenge/tree/2021_Routenet_TF). The main librairies
+used are:
+
+• numpy==1.19.5
+
+• pandas==1.3.2
+
+• tensorflow==2.4.2
+
+• networkx==2.5.1
+
+All of them can be installed with pip install. The python version is Python 3.8.8.
+
 # Credits
 This project is the result of collaboration between:
 
