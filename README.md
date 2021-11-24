@@ -20,14 +20,18 @@ Our solution is made of the combination of two independent models. For the train
 
 <img id="fig1" src="./assets/SOFGNN_architecture.PNG" width="100%" height="100%" />
 
-## How to reproduce the training
+##  Training and Evaluation
 1 - Download the [Traning, Validation and test Datasets](https://bnn.upc.edu/challenge/gnnet2021/dataset/)  made available by the [Barcelona Neural Networking Center], then save them in a folder named Dataset following the specifications contained in the [code/.config file](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/config.ini). Updete the [[DIRECTORIES]] paths (https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/config.ini#L1) to match with your envionment.
 
-2- Train model 1 and model 2
+2 - Train model 1 and model 2
 
-• To train model 1: execute the [main 1.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/main_1.py) script with ```python main 1.py```. This will train model 1 and save the model after each epoch in a folder named trained model1
+• To train model 1: execute the [main 1.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/main_1.py) script with ```python main_1.py```. This will train model 1 and save the model after each epoch in a folder named trained model1
 
-• To train model 2: execute the [main 2.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/main_2.py)  script with ```python main 2.py```. This will train model 2 and save the model after each epoch in a folder named trained model2
+• To train model 2: execute the [main 2.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/main_2.py)  script with ```python main_2.py```. This will train model 2 and save the model after each epoch in a folder named trained model2
+
+3 - Select the Best model
+• For model 1: run the [find top models 1.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/find_top models_1.py) script with ```python find_top_models_1.py```
+• For model 2: run the [find top models 2.py](https://github.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-001-SOFGNN-Graph-Neural-Networking-Challenge/blob/main/code/find_top models_2.py) script with ```python find_top_models_2.py```
 
 # Credits
 This project is the result of collaboration between:
