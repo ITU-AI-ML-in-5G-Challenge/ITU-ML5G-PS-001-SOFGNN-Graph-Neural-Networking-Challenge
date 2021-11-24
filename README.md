@@ -18,7 +18,7 @@ All of them can be installed with pip install. The python version is Python 3.8.
 ## Proposed Solution
 Our solution is made of the combination of two independent models. For the training, both models is trained separately (sequentially or in parallel). Here is its architecture.
 
-<img id="fig1" src="./assets/SOFGNN_architecture1.PNG" width="100%" height="100%" />
+<img id="fig1" src="./assets/SOFGNN_architecture.PNG" width="100%" height="100%" />
 
 # Credits
 This project is the result of collaboration between:
