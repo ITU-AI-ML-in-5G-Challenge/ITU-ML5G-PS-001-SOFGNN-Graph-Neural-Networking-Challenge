@@ -13,7 +13,7 @@ used are:
 
 • networkx==2.5.1
 
-All of them can be installed with pip install. The python version is Python 3.8.8.
+All of them can be installed with ```pip install```. The python version is Python 3.8.8.
 
 ## Proposed Solution
 Our solution is made of the combination of two independent models. For the training, both models is trained separately (sequentially or in parallel). Here is its architecture.
