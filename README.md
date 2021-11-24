@@ -44,10 +44,10 @@ To evaluate the ensemble model, run the [evaluate.py](https://github.com/ITU-AI-
 # Credits
 This project is the result of the collaboration between:
 
-Brigitte Jaumard - Computer Science and Software Engineering Dpt,Concordia University, Montreal (Qc) Canada
+[Brigitte Jaumard](https://users.encs.concordia.ca/~bjaumard/) - Computer Science and Software Engineering Dpt,Concordia University, Montreal (Qc) Canada
 
 Charles Boudreau - Computer Science and Software Engineering Dpt,Concordia University, Montreal (Qc) Canada
 
-Junior Momo Ziazet - Computer Science and Software Engineering Dpt,Concordia University, Montreal (Qc) Canada
+[Junior Momo Ziazet](https://ca.linkedin.com/in/junior-momo-ziazet-710755140) - Computer Science and Software Engineering Dpt,Concordia University, Montreal (Qc) Canada
 
-Huy Duong - Centre de Recherche Informatique de Montréal (CRIM), Montreal (Qc) Canada
+[Huy Duong](https://ca.linkedin.com/in/huy-q-duong) - Centre de Recherche Informatique de Montréal (CRIM), Montreal (Qc) Canada
